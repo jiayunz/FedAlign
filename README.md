@@ -1,6 +1,7 @@
 # FedAlign
-Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework. To appear in KDD 2023. [[arXiv](https://arxiv.org/pdf/2301.00489.pdf)]
+Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework. KDD 2023. [[arXiv](https://arxiv.org/pdf/2301.00489.pdf)]
 
+Check our 2-min promotional video on [YouTube](https://www.youtube.com/watch?app=desktop&v=kXkgOGwbbUs&feature=youtu.be)!
 
 ## Run Experiments
 ### Datasets
