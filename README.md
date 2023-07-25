@@ -11,7 +11,7 @@ Download and put the datasets in `data` folder. The datasets we used are listed 
 
 **MIMIC-III:** https://physionet.org/content/mimiciii/1.4/. Please follow [this GitHub repo](https://github.com/SmokeShine/Convolutional-Attention-forMultiLabel-classification-CAML) to preprocess the data.
 
-**PAMAP2:** https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
+**PAMAP2:** https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring. Please refer to the [code](https://github.com/jiayunz/FedAlign/issues/1#issuecomment-1646515198) for data preprocessing.
 
 **Reuters-21578 R8:** https://ana.cachopo.org/datasets-for-single-label-text-categorization
 
