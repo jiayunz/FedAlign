@@ -37,14 +37,11 @@ python main.py -t pamap2 --fedalign -g 6
 ## Citation
 Please cite the following paper if you found our framework useful. Thanks!
 ```
-@inproceedings{Zhang_2023,
-	doi={10.1145/3580305.3599443},
-	url={https://doi.org/10.1145%2F3580305.3599443},
-	year={2023},
-	month={aug},
-	publisher={{ACM}},
-	author={Jiayun Zhang and Xiyuan Zhang and Xinyang Zhang and Dezhi Hong and Rajesh K. Gupta and Jingbo Shang},
-	title={{Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework}},
-	booktitle={Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining}
+@inproceedings{zhang2023navigating,
+  title={Navigating Alignment for Non-identical Client Class Sets: A Label Name-Anchored Federated Learning Framework},
+  author={Zhang, Jiayun and Zhang, Xiyuan and Zhang, Xinyang and Hong, Dezhi and Gupta, Rajesh K and Shang, Jingbo},
+  booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3297--3308},
+  year={2023}
 }
 ```
