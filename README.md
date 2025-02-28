@@ -7,7 +7,7 @@ Check our 2-min promotional video on [YouTube](https://www.youtube.com/watch?app
 ### Datasets
 Download and put the datasets in `data` folder. The datasets we used are listed below.
 
-**ExtraSensory:** http://extrasensory.ucsd.edu/
+**ExtraSensory:** http://extrasensory.ucsd.edu/. [Preprocessing code](https://github.com/jiayunz/FedAlign/blob/main/dataset/preprocessing/extrasensory.py).
 
 **MIMIC-III:** https://physionet.org/content/mimiciii/1.4/. Please follow [this GitHub repo](https://github.com/SmokeShine/Convolutional-Attention-forMultiLabel-classification-CAML) to preprocess the data.
 
