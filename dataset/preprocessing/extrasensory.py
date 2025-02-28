@@ -134,9 +134,7 @@ def extract_subsequences():
     print(f'{full_label_cnt} subsequences have all labels.')
 
     print('Y.shape:', np.shape(data['Y']))
-    print('T.shape:', np.shape(data['T']))
     print('M.shape:', np.shape(data['M']))
-    print('X.shape:', np.shape(data['X']))
 
     np.savez(os.path.join(DATA_PATH, 'data.npz'),
              X=np.array(data['X']),
